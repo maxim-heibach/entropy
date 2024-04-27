@@ -5,7 +5,7 @@ Matrikelnummer: 909442
 
 ## Aufgabe
 Teilaufgaben:
-1. Implementieren Sie in einer Programmiersprache Ihrer Wahl eine Funktion *entropy*, der Sie einen Text bzw. String übergeben und die sowohl die maximale Entropie Hmax sowie die tatsächliche Entropie H des übergebenen Texts bestimmt.
+1. Implementieren Sie in einer Programmiersprache Ihrer Wahl eine Funktion `entropy`, der Sie einen Text bzw. String übergeben und die sowohl die maximale Entropie Hmax sowie die tatsächliche Entropie H des übergebenen Texts bestimmt.
 Hinweis: Zur Lösung der Aufgabe eignet sich eine Hashmap (in manchen Programmiersprachen auch „Dictionary“ genannt), wobei die Buchstaben als Schlüssel sowie die auftretenden Häufigkeiten als Werte abgelegt werden.  
 
 2. Testen Sie Ihre Implementierung aus Aufgabenteil 1. mit einem String, der nur aus den Buchstaben A, B, C und D besteht mit den folgenden Auftrittswahrscheinlichkeiten:
